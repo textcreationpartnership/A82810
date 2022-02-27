@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and advice, presented unto His Highness the Lord Protector by the knights, citizens and burgesses assembled at the Parliament begun and held at Westminster the 17th day of September 1656. and there continued until the 26th day of Iune following, and then adjourned unto the 20th day of Ianuary 1657. As also, their humble additional and explanatory petition and advice, presented unto His Highness in the same Parliament; together with His Highness consent unto the said petitions when they were respectively presented.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82810</idno>
+            <idno type="STC">Wing E1566</idno>
+            <idno type="STC">Thomason E1065_18</idno>
+            <idno type="STC">Thomason E1065_18*</idno>
+            <idno type="STC">ESTC R7605</idno>
+            <idno type="EEBO-CITATION">99873158</idno>
+            <idno type="PROQUEST">99873158</idno>
+            <idno type="VID">169276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169276)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[18], 159 E1065[18*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and advice, presented unto His Highness the Lord Protector by the knights, citizens and burgesses assembled at the Parliament begun and held at Westminster the 17th day of September 1656. and there continued until the 26th day of Iune following, and then adjourned unto the 20th day of Ianuary 1657. As also, their humble additional and explanatory petition and advice, presented unto His Highness in the same Parliament; together with His Highness consent unto the said petitions when they were respectively presented.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>[4], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an initial blank leaf.</note>
+                  <note>The first petition is dated 25 May 1657.</note>
+                  <note>"To His Highness the Lord Protector of the Commonwealth of England, Scotland, and Ireland, and the dominions and territories thereunto belonging: the humble additional and explanatory petition and advice, of the knights, citizens, and burgesses now assembled in the Parliament of this Common-VVealth", dated 26 June 1657, has separate dated title page; pagination and register are continuous.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutions --  Great Britain --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169276:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <p>TO HIS HIGHNESS THE LORD PROTECTOR OF THE COMMONWEALTH OF <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Do<g ref="char:EOLhyphen"/>minions and Territories thereunto belonging: The Humble Additional and Explanatory PETITION and Advice, of the Knights, Citizens, and Burgeſſes now aſſembled in the PARLIAMENT of this COMMON-VVEALTH.</p>
+            <figure>
+               <figDesc>Anglo-Irish Protectorate blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills,</hi> and <hi>John Field,</hi> Printers to His Highneſs, 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="23" facs="tcp:169276:2"/>
+            <!-- PDF PAGE 35 -->
+            <head>TO HIS HIGHNESS THE LORD PROTECTOR OF THE Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Ter<g ref="char:EOLhyphen"/>ritories thereunto belonging.</head>
+            <head type="sub">The Humble Additional and Explanatory Peti<g ref="char:EOLhyphen"/>tion and Advice, of the Knights, Citizens, and Burgeſſes now Aſſembled in the Parliament of this Commonwealth.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas upon the humble Peti<g ref="char:EOLhyphen"/>tion and Advice of the ſaid Knights, Citizens &amp; Burgeſſes, now Aſſembled in the Parlia<g ref="char:EOLhyphen"/>ment of this Commonwealth, lately Preſented and Conſent<g ref="char:EOLhyphen"/>ed unto by your Highneſs, Certain Doubts and Queſtions have riſen, concerning ſome par<g ref="char:EOLhyphen"/>ticulars therein compriſed, for explanation whereof. May it pleaſe your Highneſs to de<g ref="char:EOLhyphen"/>clare and conſent unto the Additions and Expla<g ref="char:EOLhyphen"/>nations hereafter mentioned, and may it be Declared with your Highneſs Conſent.</p>
+            <div type="part">
+               <head>In the fourth Article.</head>
+               <p>That ſuch perſon and perſons as invaded <hi>England,</hi> under Duke <hi>Hamilton,</hi> in the year <hi>1648.</hi> Or Adviſed, Conſented, Aſſiſted, or voluntarily contributed unto that war; And were for that cauſe debarred from publick Truſt by the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland,</hi> be uncapable to Elect, or
+<pb facs="tcp:169276:3"/>
+                  <!-- PDF PAGE 36 -->
+                  <pb n="23" facs="tcp:169276:3"/>
+                  <!-- PDF PAGE 36 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:169276:4"/>
+                  <!-- PDF PAGE 37 -->be Elected, to ſit and ſerve as Members of Parliament, or in any other place of Publick truſt, relating unto the fourth and thirteenth Articles, in the Petition and Advice, excepting ſuch as ſince have born Armes for your High<g ref="char:EOLhyphen"/>neſs, or the Parliament, or have been admitted to ſit and ſerve in the Parliament of this Com<g ref="char:EOLhyphen"/>monwealth, and are of good life and Conver<g ref="char:EOLhyphen"/>ſation, or ſuch as ſhall hereafter be declared by your Highneſs, with the Advice of your Council, to have given ſome ſignal teſtimony of their good affection &amp; continuance in the ſame.</p>
+               <p>That the Proviſo in the ſaid fourth Article, be explained thus, <hi>viz.</hi> That ſuch <hi>Engliſh</hi> and <hi>Sco<g ref="char:EOLhyphen"/>tiſh</hi> Proteſtants, who (ſince the defection of the Earl of <hi>Ormond,</hi> and the Lord <hi>Inchiquin,</hi> and before the firſt day of <hi>March, 1649.</hi>) have born Arms for, and ever ſince continued faithfull to the Parliament, or your Highneſs, or have otherwiſe (before y<hi rend="sup">e</hi> ſaid firſt day of <hi>March 1649.</hi>) given ſignal teſtimony of their good affection to this Commonwealth, and have ever ſince continued faithfull to the ſame, ſhall not be de<g ref="char:EOLhyphen"/>barred or deemed uncapable of Electing, or be<g ref="char:EOLhyphen"/>ing Elected to ſerve in Parliament.</p>
+               <p>And whereas in the ſaid fourth Article Pub<g ref="char:EOLhyphen"/>lique Miniſters, or Publique Preachers of the Goſpel, are diſabled to be Elected to ſerve in Par<g ref="char:EOLhyphen"/>liament; It is hereby explained and declared to extend to ſuch Miniſters and Preachers only, as have Maintenance for Preaching, or are Paſtors or Teachers of Congregations.</p>
+            </div>
+            <div type="part">
+               <head>In the ſaid fourth Article.</head>
+               <p>That in ſtead of Commiſſioners to be ap<g ref="char:EOLhyphen"/>pointed by Act of Parliament, to examine and
+<pb n="25" facs="tcp:169276:4"/>
+                  <!-- PDF PAGE 37 -->try whether the Members to be Elected for the Houſe of Commons in future Parliaments, be capable to ſit according to the Qualifications mentioned in the ſaid Petition and Advice, there ſhall be the Penalty, and Fine of One thouſand pounds laid and inflicted upon every ſuch un<g ref="char:EOLhyphen"/>qualified Member (being ſo adjudged) by the ſaid Houſe of Commons, and impriſonment of his Perſon until payment thereof.</p>
+               <p>And that the enſuing Clauſes in the ſaid Article, <hi>viz. We deſire that it may by your High<g ref="char:EOLhyphen"/>neſs Conſent be Ordained, That forty and one Com<g ref="char:EOLhyphen"/>miſſioners, be appointed by Act of Parliament, who, or five, or more of them, ſhall be Authorized to examine and try whether the Members to be Elected for the Houſe of Commons in future Parliaments, be Capa<g ref="char:EOLhyphen"/>ble to ſit according to the qualifications mentioned in this Petition and Advice, and in caſe they finde them not qualified accordingly, then to ſuſpend them from ſitting, until the Houſe of Commons, ſhall, upon hearing their particular Caſes, admit them to ſit; which Com<g ref="char:EOLhyphen"/>miſſioners are to ſtand ſo Authorized for that end, un<g ref="char:EOLhyphen"/>til the Houſe of Commons in any future Parliament, ſhall nominate the like number of other Commiſſion<g ref="char:EOLhyphen"/>ers in their places: And thoſe other Commiſſioners, ſo to be nominated in any future Parliaments, to have the ſame Power and Authority. That the ſaid Commiſſioners ſhall Certifie in writing to the Houſe of Commons, on the firſt day of their meeting, the cauſe and grounds of their ſuſpenſions of any perſon ſo to be Elected as aforeſaid; That the Accuſation ſhall be up<g ref="char:EOLhyphen"/>on Oath of the Informant, or of ſome other perſon. That a Copy of the accuſation ſhall be left, by the party accuſing, in writing under his hand, with the party ac<g ref="char:EOLhyphen"/>cuſed, or in his abſence, at his houſe in the Country, City, or Town, for which he ſhall be Choſen, if he have any
+<pb n="26" facs="tcp:169276:5"/>
+                     <!-- PDF PAGE 38 -->ſuch Houſe, or if not, with the Sheriff of the County, if he be choſen for a County, or with the chief Magi<g ref="char:EOLhyphen"/>ſtrate of the City, or Burrough, for which he is choſen;</hi> ſhall not be put in Execution, or made uſe of, but ſhall be void, fruſtrate, Null and of none effect, and ſhall be ſo conſtrued and taken to all intents and purpoſes whatſoever, any thing contained in the ſaid Petition and Advice to the contrary notwithſtanding.</p>
+            </div>
+            <div type="part">
+               <head>In the fifth Article.</head>
+               <p>That the Nomination of the perſons to ſupply the place of ſuch Members of the other Houſe, as ſhall die, or be removed, ſhall be by your High<g ref="char:EOLhyphen"/>neſſe and your Succeſſors.</p>
+            </div>
+            <div type="part">
+               <head>In the ſeventh Article.</head>
+               <p>That the moneys directed to be for the ſupply of the Sea, and Land Forces, be iſſued by Advice of the Council, And that the Treaſurers or Commiſſioners of the Treaſury, ſhall give an Account of all the ſaid money to every Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>That the Officers of State, and Iudges, in the Ninth Article of the ſaid Petition and Ad<g ref="char:EOLhyphen"/>vice mentioned ſhall be choſen, in the Intervals of Parliament, by the Conſent of the Council, to be afterwards approved by Parliament.</p>
+               <p>That your Highneſs will be pleaſed, accor<g ref="char:EOLhyphen"/>ding to the uſage of former Chief Magiſtrates in theſe Nations, and for the better ſatisfacti<g ref="char:EOLhyphen"/>on of the People thereof, to take an Oath in the form enſuing,</p>
+               <p>
+                  <hi>I do in the preſence, and by the Name of God Almighty, promiſe and ſwear, That to
+<pb n="27" facs="tcp:169276:5"/>
+                     <!-- PDF PAGE 38 -->the uttermoſt of my power I will uphold, and maintain the true Reformed <hi>Proteſtant</hi> Chriſtian Religion, in the purity thereof, as it is contained in the Holy Scriptures of the Old and New Teſtament, to the uttermoſt of my power and underſtanding, and incou<g ref="char:EOLhyphen"/>rage the profeſsion, and profeſſours of the ſame; and that to the utmoſt of my power, I will Endeavour, as chief Magiſtrate of theſe three Nations, the Maintenance and Preſer<g ref="char:EOLhyphen"/>vation of the Peace and ſafety, and of the juſt Rights and Priviledges of the people there<g ref="char:EOLhyphen"/>of; And ſhall in all things, according to my beſt knowledge and power, govern the peo<g ref="char:EOLhyphen"/>ple of theſe Nations according to Law.</hi>
+               </p>
+               <p>That your Highneſs Succeſſors, do, before they take upon them the Government of theſe Nations, take an Oath in the form aforeſaid.</p>
+               <p>That all ſuch perſons who now are, or ſhall hereafter be of the Privy Council of your High<g ref="char:EOLhyphen"/>neſs or Succeſſors, before they, or either of them, do act as Councellors, ſhall reſpectively take an Oath, before perſons to be authorized by your Highneſs and Succeſſors for that purpoſe, in the form following.</p>
+               <p>
+                  <hi>I. A. B. Do in the preſence, and by the Name of God Almighty, promiſe and ſwear, That to the uttermoſt of my power, in my place, I will uphold, and maintain the true Reformed Proteſtant Chriſtian Religion, in the purity thereof, as it is contayned in the
+<pb n="28" facs="tcp:169276:6"/>
+                     <!-- PDF PAGE 39 -->Holy Scriptures of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, and encourage the profeſſion and pro<g ref="char:EOLhyphen"/>feſſors of the ſame; And that I will be true and faithfull to His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions thereto belonging, as Chief Magiſtrate thereof, And ſhall not contrive, deſign, or attempt any thing, againſt the perſon or law<g ref="char:EOLhyphen"/>full authority of his ſaid Highneſs, and ſhall keep ſecret all matters that ſhall be treated of in Councel, and put under ſecrecy, and not reveal them but by Command or con<g ref="char:EOLhyphen"/>ſent of His Highneſs, the Parliament, or the Councel, and ſhall in all things faithfully per<g ref="char:EOLhyphen"/>form the truſt Committed to me as a Coun<g ref="char:EOLhyphen"/>cellor, according to the beſt of my under<g ref="char:EOLhyphen"/>ſtanding, in order to the good Government, peace and welfare of theſe Nations.</hi>
+               </p>
+               <p>That the ſame Oath be taken by the mem<g ref="char:EOLhyphen"/>bers of your Highneſs Councel of <hi>Scotland,</hi> and <hi>Ireland.</hi>
+               </p>
+               <p>That every perſon who now is, or hereafter ſhall be a Member of either houſe of Parlia<g ref="char:EOLhyphen"/>ment, before he ſit in Parliament, ſhall, from and after the firſt day of <hi>July, 1657.</hi> take an Oath before perſons, to be Authorized and ap<g ref="char:EOLhyphen"/>pointed by your Highneſs and Succeſſors for that purpoſe, in the form following.</p>
+               <p>
+                  <hi>I. A. B. do in the preſence, and by the name of God Almighty, promiſe and ſwear, that
+<pb n="29" facs="tcp:169276:6"/>
+                     <!-- PDF PAGE 39 -->to the uttermoſt of my power in my place, I will uphold and maintain the true Reformed Proteſtant Chriſtian Religion, in the purity thereof, as it is contained in the Holy Scriptures of the Old and New Teſtament, &amp; encourage the profeſſion and profeſſors of the ſame, and that <hi>I</hi> will be true and faithfull to the Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging, as Chief Magiſtrate thereof; And ſhall not Contrive, Deſign, or Attempt any thing againſt the Perſon or lawfull Authority of the Lord Pro<g ref="char:EOLhyphen"/>tector, and ſhall endeavour as much as in me lies, as a Member of Parliament, the preſer<g ref="char:EOLhyphen"/>vation of the Rights and Liberties of the People.</hi>
+               </p>
+               <p>That your Highneſs would be pleaſed in convenient time, before the next meeting of this Parliament, to cauſe ſeveral ſummons in due form of Law, to be iſſued forth to ſuch perſons as your Highneſs ſhall think fit (being qualified according to the Humble Petition and Adviſe of the Parliament, whereto your Highneſs hath conſented) to ſit and ſerve as Members in the o<g ref="char:EOLhyphen"/>ther houſe of Parliament; by which ſummons the ſaid perſons ſhall be reſpectively command<g ref="char:EOLhyphen"/>ed to be, and perſonally to appear at a certain place and time, to be appointed by your High<g ref="char:EOLhyphen"/>neſs, to give their Advice and Aſſiſtance, and to do ſuch things concerning the Great and
+<pb n="30" facs="tcp:169276:7"/>
+                  <!-- PDF PAGE 40 -->Weighty Affairs of this Commonwealth, as to the other Houſe of Parliament doth apper<g ref="char:EOLhyphen"/>tain, by the ſaid Humble Petition and Advice.</p>
+               <p>That the Perſons ſo ſummoned and Aſſem<g ref="char:EOLhyphen"/>bled together, ſhall be, and are hereby decla<g ref="char:EOLhyphen"/>red to be the other houſe of Parliament; and ſhall, and may without further Approbation of this Houſe,, from ſuch time of their Meet<g ref="char:EOLhyphen"/>ing, proceed, to do and perform all ſuch mat<g ref="char:EOLhyphen"/>ters and things, as the other Houſe of Parli<g ref="char:EOLhyphen"/>ament ought to do and perform, and ſhall and may, have and exerciſe, all ſuch Priviledges, Powers and Authorities, as the other Houſe of Parliament ought, by the aforeſaid Humble Petition and Adviſe to have and Exerciſe; the ſaid Humble Petition and Adviſe, or any thing therein contained, to the contrary thereof not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            </div>
+            <div type="answer">
+               <p>Which Petition being preſented the 26. day of <hi>Iune,</hi> 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>57. His Highneſs anſwer thereunto was read by the Clerk of the Parlia<g ref="char:EOLhyphen"/>ment in theſe words.</p>
+               <q>The Lord Protector doth conſent.</q>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
